@@ -23,18 +23,18 @@ or just run `implementation.ipynb` on colab (remember to change the file path)
 imagenet
 ├── train
 │   ├── class folder
-│   │    ├── pictures
+│   │    ├── picture
 │   │    ├── ...
 │   ├── class folder
-│   │    ├── pictures
+│   │    ├── picture
 │   │    ├── ...
 │   └── ...
 └── val                   
     ├── class folder
-    │    ├── pictures
+    │    ├── picture
     │    ├── ...
     ├── class folder
-    │    ├── pictures
+    │    ├── picture
     │    ├── ...
     └── ...            
 ```
